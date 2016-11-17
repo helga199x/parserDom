@@ -32,9 +32,9 @@ public class AdressBook {
         f.setValidating(false);
         DocumentBuilder builder = f.newDocumentBuilder();
         Document doc = builder.parse(new File("src/adressbook/AdressBook.xml"));
-       // NodeList methodNodes = doc.getChildNodes();
         read(doc, 0); 
         System.out.print();
+	
     }
     public static void read(Node node, int level) { 
     NodeList list = node.getChildNodes(); 
