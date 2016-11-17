@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<adressbook>
+	 <content>
+		<titlePage>
+			<title>Адресная книга</title>
+			<date>
+				<day>07</day>
+				<month>10</month>
+				<year>2016</year>
+			</date>
+		</titlePage>
+		<region>
+			<title>Рогачевский район</title>
+			<town>
+				<title>Довск</title>
+				<human id="1">
+					<surname>Папанова</surname>
+					<name>Алина</name>
+					<adress>ул. Гомельская, д. 34</adress>
+				</human>
+				<human id="2">
+					<surname>Тихонова</surname>
+					<name>Ольга</name>
+					<adress>ул. Советская, д.17 кв 3</adress>
+				</human>
+				<human id="3">
+					<surname>Алиева</surname>
+					<name>Мария</name>
+					<adress>ул. Московская, д. 10</adress>
+				</human>
+				<human id="4">
+					<surname>Белановская</surname>
+					<name>Галина</name>
+					<adress>ул. Молодежная, д. 5</adress>
+				</human>
+				<human id="5">
+					<surname>Макаренко</surname>
+					<name>Яна</name>
+					<adress>ул. Советкая, д. 2</adress>
+				</human>
+				<human id="6">
+					<surname>Шаминская</surname>
+					<name>Светлана</name>
+					<adress>ул. Рогачевская, д. 12</adress>
+				</human>
+			</town>
+		</region>
+	</content>
+</adressbook>
